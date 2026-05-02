@@ -55,3 +55,4 @@ This project is an interactive Power BI dashboard built to analyze NYC taxi ride
 - JFK Airport is the top pickup zone by number of rides
 
 ## Dashboard
+![Dashboard](Dashboard.png
